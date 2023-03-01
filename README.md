@@ -6,4 +6,4 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 ### Scrreenshot
 
-![image](https://user-images.githubusercontent.com/67087179/222213856-4271e34e-62e3-471e-9cdc-0846e535409a.png)
+![image](https://user-images.githubusercontent.com/67087179/222214224-138dfd8a-9b3d-459d-bd7b-dd447a75759c.png)
